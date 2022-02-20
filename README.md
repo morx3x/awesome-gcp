@@ -5,7 +5,7 @@
 
 A curated list of awesome GCP libraries, open source repos, guides, blogs, books, and other resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list and the [awesome-aws](https://github.com/donnemartin/awesome-aws) list.
 
 ## The Fiery Meter of Awesome
 
